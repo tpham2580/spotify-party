@@ -18,6 +18,8 @@ Spotify Party allows friends and family to create a room to play songs in Spotif
   - [React.js](https://reactjs.org/)
   - [Django Rest Framework](https://www.django-rest-framework.org/)
   - [Spotify Web API](https://developer.spotify.com/documentation/web-api/)
+  - [Webpack](https://webpack.js.org/)
+  - [Babel](https://babel.dev/)
 
 ## 😋 Authors
   - [Timothy Pham](https://github.com/tpham2580)
