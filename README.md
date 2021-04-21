@@ -8,9 +8,13 @@ Spotify Party allows friends and family to create a room to play songs in Spotif
 
 
 
-#### Node Module Instructions
+#### NPM Instructions
 
-  Type the following command to install appropriate packages
+  Type the following commands to install appropriate packages in the frontend app folder:
+
+  ```
+  npm init -y
+  ```
 
   ```
   npm i webpack webpack-cli --save-dev
